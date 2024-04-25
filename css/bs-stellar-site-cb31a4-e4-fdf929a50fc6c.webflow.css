@@ -3113,6 +3113,10 @@ figcaption {
   text-align: center;
 }
 
+.image-4 {
+  margin-bottom: 0;
+}
+
 @media screen and (max-width: 991px) {
   .padding-xlarge {
     padding: 3rem;
